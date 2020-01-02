@@ -1,0 +1,12 @@
+h1{
+	color:yellow; 
+}
+h2{
+	color:#000001; <!-- This is a string which consists of a # + a hexadecimal no.-->
+}
+h3{
+	color:rgb(0,0,0);  <!-- This is rgb() function which is mixture of red,blue,green-->
+}
+h4{
+	color:rgpa(0,0,0,0.4 ); <!-- In this a consists of transparency -->
+}
